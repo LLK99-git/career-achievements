@@ -1,7 +1,7 @@
 # Layss Kuzbari
 
 Vienna, Austria  
-Email: `<add email>`  
+Email: [kuzbarilayss@gmail.com](mailto:kuzbarilayss@gmail.com)  
 LinkedIn: [linkedin.com/in/laysskuzbari](https://www.linkedin.com/in/laysskuzbari)  
 GitHub: [github.com/LLK99-git](https://github.com/LLK99-git)  
 Portfolio: `<add portfolio link>`
@@ -109,9 +109,26 @@ Status: ongoing learning and documentation
 
 ## Education
 
-### Computing And IT
+### The Open University
 
-Currently pursuing technical and software engineering focused studies with emphasis on practical systems, infrastructure, and software development.
+Sep 2021 - Jun 2024
+
+### Technische Universität Wien
+
+Sep 2018 - Jun 2021
+
+### WU, Vienna University Of Economics And Business
+
+Sep 2017 - Jun 2018
+
+### Amadeus International School Vienna
+
+International Baccalaureate  
+Sep 2015 - May 2017
+
+### Lycée Français De Vienne, LFV
+
+Sep 2004 - Jun 2015
 
 ## Interests
 
