@@ -3,7 +3,8 @@
 This repository is a simple, transparent place to collect my career progress, learning, projects, and supporting links.
 
 LinkedIn: [linkedin.com/in/laysskuzbari](https://www.linkedin.com/in/laysskuzbari)  
-GitHub: [github.com/LLK99-git](https://github.com/LLK99-git)
+GitHub: [github.com/LLK99-git](https://github.com/LLK99-git)  
+Portfolio: [llk99-git.github.io/portfolio](https://llk99-git.github.io/portfolio/)
 
 ## About Me
 
@@ -16,7 +17,7 @@ I am especially interested in projects that connect software with real operation
 | Area | What I Am Working On | Evidence |
 |---|---|---|
 | GitHub presence | Keeping my profile organized and easy to review | [GitHub profile](https://github.com/LLK99-git) |
-| Professional presentation | Connecting LinkedIn, GitHub, and project proof in one place | [LinkedIn](https://www.linkedin.com/in/laysskuzbari) |
+| Professional presentation | Connecting LinkedIn, GitHub, portfolio, and project proof in one place | [Portfolio](https://llk99-git.github.io/portfolio/) |
 | Full-stack practice | Documenting projects with frontend, backend, and data components | Links will be added as work is completed |
 | Systems and automation | Organizing infrastructure, smart home, networking, and monitoring experience into clear writeups | In progress |
 | AI workflows | Exploring AI-assisted tooling and automation without overstating production experience | In progress |
@@ -30,6 +31,15 @@ This repository is my current public hub for career-related links, progress, and
 - Repository: [career-achievements](https://github.com/LLK99-git/career-achievements)
 - Focus: organization, documentation, LinkedIn/GitHub consistency
 - Status: in progress
+
+### Visual CV Portfolio
+
+A static portfolio landing page that summarizes my technical direction and links to proof, CV, GitHub, and LinkedIn.
+
+- Live site: [llk99-git.github.io/portfolio](https://llk99-git.github.io/portfolio/)
+- Repository: [portfolio](https://github.com/LLK99-git/portfolio)
+- Focus: recruiter-friendly presentation, proof links, professional positioning
+- Status: active
 
 ### PaperOps
 
@@ -87,6 +97,7 @@ These are areas I am currently practicing, learning, or documenting. I will upda
 Use this section to link to proof, screenshots, certificates, demos, or short writeups as they are added.
 
 - CV: [docs/CV.md](docs/CV.md)
+- Portfolio: [llk99-git.github.io/portfolio](https://llk99-git.github.io/portfolio/)
 - Project screenshots: to be added
 - Certificates: to be added
 - Case studies: to be added
@@ -105,3 +116,4 @@ Use this section to link to proof, screenshots, certificates, demos, or short wr
 
 - LinkedIn: [linkedin.com/in/laysskuzbari](https://www.linkedin.com/in/laysskuzbari)
 - GitHub: [github.com/LLK99-git](https://github.com/LLK99-git)
+- Portfolio: [llk99-git.github.io/portfolio](https://llk99-git.github.io/portfolio/)

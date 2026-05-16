@@ -4,7 +4,7 @@ Vienna, Austria
 Email: [kuzbarilayss@gmail.com](mailto:kuzbarilayss@gmail.com)  
 LinkedIn: [linkedin.com/in/laysskuzbari](https://www.linkedin.com/in/laysskuzbari)  
 GitHub: [github.com/LLK99-git](https://github.com/LLK99-git)  
-Portfolio: `<add portfolio link>`
+Portfolio: [llk99-git.github.io/portfolio](https://llk99-git.github.io/portfolio/)
 
 ## Profile
 
