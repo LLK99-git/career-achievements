@@ -1,59 +1,61 @@
-# Layss Kuzbari | Career Achievement Hub
+# Layss Kuzbari | Career Progress Hub
 
-Welcome. This repository is a curated overview of my work, achievements, technical skills, and professional growth.
+This repository is a simple, transparent place to collect my career progress, learning, projects, and supporting links.
 
 LinkedIn: [linkedin.com/in/laysskuzbari](https://www.linkedin.com/in/laysskuzbari)  
 GitHub: [github.com/LLK99-git](https://github.com/LLK99-git)
 
 ## About Me
 
-I am building a career in technology with a focus on practical software projects, clear documentation, and continuous learning. This page collects the work I want recruiters, hiring managers, and collaborators to see first.
+I am building my career in technology and using this page to document my progress in a clear, honest, and verifiable way. My current focus is improving my technical foundation, organizing my work professionally, and building projects that show practical learning.
 
-## Featured Achievements
+## Current Focus
 
-| Achievement | Evidence | Skills Shown |
+| Area | What I Am Working On | Evidence |
 |---|---|---|
-| Built and published a portfolio-ready GitHub project workflow | Add link | Git, GitHub, documentation, project organization |
-| Customized a professional GitHub profile README | Add link | Personal branding, technical communication |
-| Completed coursework or certifications | Add link | Learning discipline, technical foundations |
-| Built practical software projects | Add link | Problem solving, implementation, deployment |
+| GitHub presence | Keeping my profile organized and easy to review | [GitHub profile](https://github.com/LLK99-git) |
+| Professional presentation | Connecting LinkedIn, GitHub, and project proof in one place | [LinkedIn](https://www.linkedin.com/in/laysskuzbari) |
+| Technical learning | Building a stronger foundation through practice and documentation | Links will be added as work is completed |
+| Project portfolio | Preparing small, realistic projects that match my current skill level | In progress |
 
 ## Projects
 
-### Portfolio / GitHub Profile
+### Career Progress Hub
 
-A professional GitHub presence designed to summarize my skills, projects, and career direction.
+This repository is my current public hub for career-related links, progress, and proof of work.
 
-- Repository: [LLK99-git](https://github.com/LLK99-git)
-- Focus: personal branding, technical writing, project presentation
+- Repository: [career-achievements](https://github.com/LLK99-git/career-achievements)
+- Focus: organization, documentation, LinkedIn/GitHub consistency
 - Status: in progress
 
-### Project 2: Add Your Best Project Here
+### GitHub Profile README
 
-Short description of what the project does and why it matters.
+A short profile page that introduces who I am, where to find me, and what I am currently working on.
 
-- Repository: add link
-- Demo: add link
-- Skills: add skills
-- Status: add status
+- Repository: [LLK99-git](https://github.com/LLK99-git)
+- Focus: personal presentation, clear links, professional communication
+- Status: in progress
 
-### Project 3: Add Another Project Here
+### Upcoming Project
 
-Short description of what the project does and why it matters.
+I plan to add one small project at a time instead of listing unfinished work as completed. Each project added here should include a short README, screenshots if useful, and a clear explanation of what I learned.
 
-- Repository: add link
-- Demo: add link
-- Skills: add skills
-- Status: add status
+- Repository: to be added
+- Focus: to be defined
+- Status: planned
 
 ## Certifications And Learning
 
-| Certification / Course | Provider | Date | Link |
+This section will only include courses, certificates, or learning milestones once I can link to proof or describe the work accurately.
+
+| Learning Item | Provider | Status | Proof |
 |---|---|---:|---|
-| Add certification | Add provider | 2026 | Add proof link |
-| Add course | Add provider | 2026 | Add proof link |
+| Add completed course or certification | Add provider | Completed | Add proof link |
+| Add current learning path | Add provider | In progress | Add notes or proof link |
 
 ## Skills
+
+These are areas I am currently practicing and documenting. I will update this list as I build more proof of work.
 
 - Git and GitHub
 - Technical documentation
@@ -64,19 +66,19 @@ Short description of what the project does and why it matters.
 
 ## Work Samples
 
-Use this section to link to proof, screenshots, certificates, demos, or writeups.
+Use this section to link to proof, screenshots, certificates, demos, or short writeups as they are added.
 
-- Project screenshots: add link
-- Certificates: add link
-- Case studies: add link
-- Resume: add link
+- Project screenshots: to be added
+- Certificates: to be added
+- Case studies: to be added
+- Resume or portfolio link: to be added
 
 ## Current Goals
 
-- Build and publish polished portfolio projects
-- Add real screenshots, demos, and proof links
-- Contribute to open-source projects
-- Keep this hub updated as my experience grows
+- Keep my LinkedIn and GitHub consistent
+- Add proof instead of making unsupported claims
+- Build small projects that are complete and easy to understand
+- Improve documentation and commit history over time
 
 ## Contact
 
