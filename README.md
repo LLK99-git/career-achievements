@@ -86,6 +86,7 @@ These are areas I am currently practicing, learning, or documenting. I will upda
 
 Use this section to link to proof, screenshots, certificates, demos, or short writeups as they are added.
 
+- CV: [docs/CV.md](docs/CV.md)
 - Project screenshots: to be added
 - Certificates: to be added
 - Case studies: to be added
